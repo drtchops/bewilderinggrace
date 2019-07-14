@@ -1,0 +1,281 @@
+Ophilia
+	Money: 2500
+	Index: 6
+	ID: 7
+	RawHP: 225
+	RawMP: 65
+	MainMissionProgressCnt: 40
+	MissionRecord_MainStartSelect: 7
+	FirstSelectCharacterID: 7
+	MainMemberCharacterID: 7
+	MainMemberID: 6
+	FirstJobID: 4
+	MainMemberJobID: 4
+	BGM: 45
+	VisitedMap: 2048 (4)
+	VisitedRegion: 2
+	LevelName: T_Snow_L_C
+	LevelID: 139
+	Position: -2750.0, 20.0002136, 200.0
+	Equipment:
+		Rod, 1532
+		Shield, 1618
+		Head, 1742
+		Body, 1850
+	Items:
+		1, 3
+		4, 3
+		12, 2
+		1532, 1
+		1618, 1
+		1742, 1
+		1850, 1
+
+Cyrus
+	Money: 2500
+	Index: 2
+	ID: 3
+	RawHP: 200
+	RawMP: 60
+	MainMissionProgressCnt: 30
+	MissionRecord_MainStartSelect: 3
+	FirstSelectCharacterID: 3
+	MainMemberCharacterID: 3
+	MainMemberID: 2
+	FirstJobID: 6
+	MainMemberJobID: 6
+	BGM: 44
+	VisitedMap: 24576 (2)
+	VisitedRegion: 16
+	LevelName: T_Plain_L_C
+	LevelID: 78
+	Position: -1550.00269, 200.0, 200.0
+	Equipment:
+		Rod, 1532
+		Head, 1742
+		Body, 1850
+	Items:
+		1, 3
+		4, 3
+		12, 2
+		1532, 1
+		1742, 1
+		1850, 1
+
+Tressa
+	Money: 3000
+	Index: 1
+	ID: 2
+	RawHP: 275
+	RawMP: 50
+	MainMissionProgressCnt: 50
+	MissionRecord_MainStartSelect: 2
+	FirstSelectCharacterID: 2
+	MainMemberCharacterID: 2
+	MainMemberID: 1
+	FirstJobID: 0
+	MainMemberJobID: 0
+	BGM: 8
+	VisitedMap: 262144 (3)
+	VisitedRegion: 128
+	LevelName: T_Sea_S
+	LevelID: 114
+	Position: 815.7621, -1979.93384, 483.0
+	Equipment:
+		Lance, 1129
+		Bow, 1430
+		Shield, 1618
+		Head, 1740
+		Body, 1848
+	Items:
+		1, 3
+		4, 3
+		12, 2
+		1129, 1
+		1430, 1
+		1618, 1
+		1740, 1
+		1848, 1
+		307, 1
+
+Olberic
+	Money: 2500
+	Index: 0
+	ID: 1
+	RawHP: 325 
+	RawMP: 40
+	MainMissionProgressCnt: 40
+	MissionRecord_MainStartSelect: 1
+	FirstSelectCharacterID: 1
+	MainMemberCharacterID: 1
+	MainMemberID: 0
+	FirstJobID: 2
+	MainMemberJobID: 2
+	BGM: 10
+	VisitedMap: 4096 (0)
+	VisitedRegion: 1024
+	LevelName: T_Mount_S
+	LevelID: 12
+	Position: 1223.51318, 1726.22522, 783.147766
+	Equipment:
+		Sword, 1033
+		Lance, 1129
+		Shield, 1618
+		Head, 1740
+		Body, 1848
+	Items:
+		1, 3
+		4, 3
+		12, 2
+		1033, 1
+		1129, 1
+		1618, 1
+		1740, 1
+		1848, 1
+
+Primrose
+	Money: 2500
+	Index: 3
+	ID: 4
+	RawHP: 225
+	RawMP: 50
+	MainMissionProgressCnt: 30
+	MissionRecord_MainStartSelect: 4
+	FirstSelectCharacterID: 4
+	MainMemberCharacterID: 4
+	MainMemberID: 3
+	FirstJobID: 5
+	MainMemberJobID: 5
+	BGM: 12
+	VisitedMap: 4 (1)
+	VisitedRegion: 8192
+	LevelName: T_Desert_M_A
+	LevelID: 34
+	Position: -1363.22839, -2280.18628, 383.15
+	Equipment:
+		Dagger, 1229
+		Head, 1741
+		Body, 1849
+	Items:
+		1, 3
+		4, 3
+		12, 2
+		1229, 1
+		1741, 1
+		1849, 1
+		337, 1
+
+Alfyn
+	Money: 2500
+	Index: 7
+	ID: 8
+	RawHP: 300
+	RawMP: 50
+	MainMissionProgressCnt: 40
+	MissionRecord_MainStartSelect: 8
+	FirstSelectCharacterID: 8
+	MainMemberCharacterID: 8
+	MainMemberID: 7
+	FirstJobID: 7
+	MainMemberJobID: 7
+	BGM: 13
+	VisitedMap: 16777216 (1)
+	VisitedRegion: 65536
+	LevelName: T_River_S
+	LevelID: 56
+	Position: -1925.198, 2120.76685, 183.15
+	Equipment:
+		Axe, 1333
+		Head, 1742
+		Body, 1850
+	Items:
+		1, 3
+		4, 3
+		12, 2
+		2500, 4
+		2501, 4
+		2502, 1
+		2516, 4
+		2518, 4
+		2520, 4
+		1333, 1
+		1742, 1
+		1850, 1
+		332, 1
+
+Therion
+	Money: 2500
+	Index: 5
+	ID: 6
+	RawHP: 250
+	RawMP: 40
+	MainMissionProgressCnt: 40
+	MissionRecord_MainStartSelect: 6
+	FirstSelectCharacterID: 6
+	MainMemberCharacterID: 6
+	MainMemberID: 5
+	FirstJobID: 1
+	MainMemberJobID: 1
+	BGM: 38
+	VisitedMap: -2147483648 (2)
+	VisitedRegion: 524288
+	LevelName: T_Cliff_L_B
+	LevelID: 95
+	Position: -99.99103, -2550.0, 400.0
+	Equipment:
+		Sword, 1033
+		Dagger, 1229
+		Shield, 1618
+		Head, 1741
+		Body, 1849
+	Items:
+		1, 3
+		4, 3
+		12, 2
+		1033, 1
+		1229, 1
+		1618, 1
+		1741, 1
+		1849, 1
+
+Haanit
+	Money: 2500
+	Index: 4
+	ID: 5
+	RawHP: 250
+	RawMP: 40
+	MainMissionProgressCnt: 20
+	MissionRecord_MainStartSelect: 5
+	FirstSelectCharacterID: 5
+	MainMemberCharacterID: 5
+	MainMemberID: 4
+	FirstJobID: 3
+	MainMemberJobID: 3
+	BGM: 37
+	VisitedMap: 1073741824 (4)
+	VisitedRegion: 4194304
+	LevelName: T_Forest_S
+	LevelID: 158
+	Position: -908.670532, -2205.3623, 383.03653
+	Equipment:
+		Axe, 1333
+		Bow, 1430
+		Shield, 1618
+		Head, 1741
+		Body, 1849
+	Items:
+		1, 3
+		4, 3
+		12, 2
+		1333, 1
+		1430, 1
+		1618, 1
+		1741, 1
+		1849, 1
+
+Unknowns:
+	AcquisitionFlag
+	BitFlag
+	CameraLockPos
+	ItemFlag
+	MapChangeHistory

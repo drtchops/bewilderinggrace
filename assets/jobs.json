@@ -1,0 +1,883 @@
+[
+    {
+        "id": 0,
+        "name": "Merchant",
+        "hp": 275,
+        "mp": 50,
+        "equipment": {
+            "lance": 1129,
+            "bow": 1430,
+            "shield": 1618,
+            "head": 1740,
+            "body": 1848
+        },
+        "items": [
+            {
+                "item_id": 1,
+                "count": 3
+            },
+            {
+                "item_id": 4,
+                "count": 3
+            },
+            {
+                "item_id": 12,
+                "count": 2
+            },
+            {
+                "item_id": 1033,
+                "count": 2
+            },
+            {
+                "item_id": 1129,
+                "count": 2
+            },
+            {
+                "item_id": 1229,
+                "count": 2
+            },
+            {
+                "item_id": 1333,
+                "count": 2
+            },
+            {
+                "item_id": 1430,
+                "count": 2
+            },
+            {
+                "item_id": 1532,
+                "count": 2
+            },
+            {
+                "item_id": 1618,
+                "count": 5
+            },
+            {
+                "item_id": 1740,
+                "count": 2
+            },
+            {
+                "item_id": 1741,
+                "count": 3
+            },
+            {
+                "item_id": 1742,
+                "count": 3
+            },
+            {
+                "item_id": 1848,
+                "count": 2
+            },
+            {
+                "item_id": 1849,
+                "count": 3
+            },
+            {
+                "item_id": 1850,
+                "count": 3
+            },
+            {
+                "item_id": 2500,
+                "count": 4
+            },
+            {
+                "item_id": 2501,
+                "count": 4
+            },
+            {
+                "item_id": 2502,
+                "count": 1
+            },
+            {
+                "item_id": 2516,
+                "count": 4
+            },
+            {
+                "item_id": 2518,
+                "count": 4
+            },
+            {
+                "item_id": 2520,
+                "count": 4
+            },
+            {
+                "item_id": 307,
+                "count": 1
+            },
+            {
+                "item_id": 332,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Theif",
+        "hp": 250,
+        "mp": 40,
+        "equipment": {
+            "sword": 1033,
+            "dagger": 1229,
+            "shield": 1618,
+            "head": 1741,
+            "body": 1849
+        },
+        "items": [
+            {
+                "item_id": 1,
+                "count": 3
+            },
+            {
+                "item_id": 4,
+                "count": 3
+            },
+            {
+                "item_id": 12,
+                "count": 2
+            },
+            {
+                "item_id": 1033,
+                "count": 2
+            },
+            {
+                "item_id": 1129,
+                "count": 2
+            },
+            {
+                "item_id": 1229,
+                "count": 2
+            },
+            {
+                "item_id": 1333,
+                "count": 2
+            },
+            {
+                "item_id": 1430,
+                "count": 2
+            },
+            {
+                "item_id": 1532,
+                "count": 2
+            },
+            {
+                "item_id": 1618,
+                "count": 5
+            },
+            {
+                "item_id": 1740,
+                "count": 2
+            },
+            {
+                "item_id": 1741,
+                "count": 3
+            },
+            {
+                "item_id": 1742,
+                "count": 3
+            },
+            {
+                "item_id": 1848,
+                "count": 2
+            },
+            {
+                "item_id": 1849,
+                "count": 3
+            },
+            {
+                "item_id": 1850,
+                "count": 3
+            },
+            {
+                "item_id": 2500,
+                "count": 4
+            },
+            {
+                "item_id": 2501,
+                "count": 4
+            },
+            {
+                "item_id": 2502,
+                "count": 1
+            },
+            {
+                "item_id": 2516,
+                "count": 4
+            },
+            {
+                "item_id": 2518,
+                "count": 4
+            },
+            {
+                "item_id": 2520,
+                "count": 4
+            },
+            {
+                "item_id": 307,
+                "count": 1
+            },
+            {
+                "item_id": 332,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Warrior",
+        "hp": 325,
+        "mp": 40,
+        "equipment": {
+            "sword": 1033,
+            "lance": 1129,
+            "shield": 1618,
+            "head": 1740,
+            "body": 1848
+        },
+        "items": [
+            {
+                "item_id": 1,
+                "count": 3
+            },
+            {
+                "item_id": 4,
+                "count": 3
+            },
+            {
+                "item_id": 12,
+                "count": 2
+            },
+            {
+                "item_id": 1033,
+                "count": 2
+            },
+            {
+                "item_id": 1129,
+                "count": 2
+            },
+            {
+                "item_id": 1229,
+                "count": 2
+            },
+            {
+                "item_id": 1333,
+                "count": 2
+            },
+            {
+                "item_id": 1430,
+                "count": 2
+            },
+            {
+                "item_id": 1532,
+                "count": 2
+            },
+            {
+                "item_id": 1618,
+                "count": 5
+            },
+            {
+                "item_id": 1740,
+                "count": 2
+            },
+            {
+                "item_id": 1741,
+                "count": 3
+            },
+            {
+                "item_id": 1742,
+                "count": 3
+            },
+            {
+                "item_id": 1848,
+                "count": 2
+            },
+            {
+                "item_id": 1849,
+                "count": 3
+            },
+            {
+                "item_id": 1850,
+                "count": 3
+            },
+            {
+                "item_id": 2500,
+                "count": 4
+            },
+            {
+                "item_id": 2501,
+                "count": 4
+            },
+            {
+                "item_id": 2502,
+                "count": 1
+            },
+            {
+                "item_id": 2516,
+                "count": 4
+            },
+            {
+                "item_id": 2518,
+                "count": 4
+            },
+            {
+                "item_id": 2520,
+                "count": 4
+            },
+            {
+                "item_id": 307,
+                "count": 1
+            },
+            {
+                "item_id": 332,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Hunter",
+        "hp": 250,
+        "mp": 40,
+        "equipment": {
+            "axe": 1333,
+            "bow": 1430,
+            "shield": 1618,
+            "head": 1741,
+            "body": 1849
+        },
+        "items": [
+            {
+                "item_id": 1,
+                "count": 3
+            },
+            {
+                "item_id": 4,
+                "count": 3
+            },
+            {
+                "item_id": 12,
+                "count": 2
+            },
+            {
+                "item_id": 1033,
+                "count": 2
+            },
+            {
+                "item_id": 1129,
+                "count": 2
+            },
+            {
+                "item_id": 1229,
+                "count": 2
+            },
+            {
+                "item_id": 1333,
+                "count": 2
+            },
+            {
+                "item_id": 1430,
+                "count": 2
+            },
+            {
+                "item_id": 1532,
+                "count": 2
+            },
+            {
+                "item_id": 1618,
+                "count": 5
+            },
+            {
+                "item_id": 1740,
+                "count": 2
+            },
+            {
+                "item_id": 1741,
+                "count": 3
+            },
+            {
+                "item_id": 1742,
+                "count": 3
+            },
+            {
+                "item_id": 1848,
+                "count": 2
+            },
+            {
+                "item_id": 1849,
+                "count": 3
+            },
+            {
+                "item_id": 1850,
+                "count": 3
+            },
+            {
+                "item_id": 2500,
+                "count": 4
+            },
+            {
+                "item_id": 2501,
+                "count": 4
+            },
+            {
+                "item_id": 2502,
+                "count": 1
+            },
+            {
+                "item_id": 2516,
+                "count": 4
+            },
+            {
+                "item_id": 2518,
+                "count": 4
+            },
+            {
+                "item_id": 2520,
+                "count": 4
+            },
+            {
+                "item_id": 307,
+                "count": 1
+            },
+            {
+                "item_id": 332,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Cleric",
+        "hp": 225,
+        "mp": 65,
+        "equipment": {
+            "rod": 1532,
+            "shield": 1618,
+            "head": 1742,
+            "body": 1850
+        },
+        "items": [
+            {
+                "item_id": 1,
+                "count": 3
+            },
+            {
+                "item_id": 4,
+                "count": 3
+            },
+            {
+                "item_id": 12,
+                "count": 2
+            },
+            {
+                "item_id": 1033,
+                "count": 2
+            },
+            {
+                "item_id": 1129,
+                "count": 2
+            },
+            {
+                "item_id": 1229,
+                "count": 2
+            },
+            {
+                "item_id": 1333,
+                "count": 2
+            },
+            {
+                "item_id": 1430,
+                "count": 2
+            },
+            {
+                "item_id": 1532,
+                "count": 2
+            },
+            {
+                "item_id": 1618,
+                "count": 5
+            },
+            {
+                "item_id": 1740,
+                "count": 2
+            },
+            {
+                "item_id": 1741,
+                "count": 3
+            },
+            {
+                "item_id": 1742,
+                "count": 3
+            },
+            {
+                "item_id": 1848,
+                "count": 2
+            },
+            {
+                "item_id": 1849,
+                "count": 3
+            },
+            {
+                "item_id": 1850,
+                "count": 3
+            },
+            {
+                "item_id": 2500,
+                "count": 4
+            },
+            {
+                "item_id": 2501,
+                "count": 4
+            },
+            {
+                "item_id": 2502,
+                "count": 1
+            },
+            {
+                "item_id": 2516,
+                "count": 4
+            },
+            {
+                "item_id": 2518,
+                "count": 4
+            },
+            {
+                "item_id": 2520,
+                "count": 4
+            },
+            {
+                "item_id": 307,
+                "count": 1
+            },
+            {
+                "item_id": 332,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Dancer",
+        "hp": 225,
+        "mp": 50,
+        "equipment": {
+            "dagger": 1229,
+            "head": 1741,
+            "body": 1849
+        },
+        "items": [
+            {
+                "item_id": 1,
+                "count": 3
+            },
+            {
+                "item_id": 4,
+                "count": 3
+            },
+            {
+                "item_id": 12,
+                "count": 2
+            },
+            {
+                "item_id": 1033,
+                "count": 2
+            },
+            {
+                "item_id": 1129,
+                "count": 2
+            },
+            {
+                "item_id": 1229,
+                "count": 2
+            },
+            {
+                "item_id": 1333,
+                "count": 2
+            },
+            {
+                "item_id": 1430,
+                "count": 2
+            },
+            {
+                "item_id": 1532,
+                "count": 2
+            },
+            {
+                "item_id": 1618,
+                "count": 5
+            },
+            {
+                "item_id": 1740,
+                "count": 2
+            },
+            {
+                "item_id": 1741,
+                "count": 3
+            },
+            {
+                "item_id": 1742,
+                "count": 3
+            },
+            {
+                "item_id": 1848,
+                "count": 2
+            },
+            {
+                "item_id": 1849,
+                "count": 3
+            },
+            {
+                "item_id": 1850,
+                "count": 3
+            },
+            {
+                "item_id": 2500,
+                "count": 4
+            },
+            {
+                "item_id": 2501,
+                "count": 4
+            },
+            {
+                "item_id": 2502,
+                "count": 1
+            },
+            {
+                "item_id": 2516,
+                "count": 4
+            },
+            {
+                "item_id": 2518,
+                "count": 4
+            },
+            {
+                "item_id": 2520,
+                "count": 4
+            },
+            {
+                "item_id": 307,
+                "count": 1
+            },
+            {
+                "item_id": 332,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Scholar",
+        "hp": 200,
+        "mp": 60,
+        "equipment": {
+            "rod": 1532,
+            "head": 1742,
+            "body": 1850
+        },
+        "items": [
+            {
+                "item_id": 1,
+                "count": 3
+            },
+            {
+                "item_id": 4,
+                "count": 3
+            },
+            {
+                "item_id": 12,
+                "count": 2
+            },
+            {
+                "item_id": 1033,
+                "count": 2
+            },
+            {
+                "item_id": 1129,
+                "count": 2
+            },
+            {
+                "item_id": 1229,
+                "count": 2
+            },
+            {
+                "item_id": 1333,
+                "count": 2
+            },
+            {
+                "item_id": 1430,
+                "count": 2
+            },
+            {
+                "item_id": 1532,
+                "count": 2
+            },
+            {
+                "item_id": 1618,
+                "count": 5
+            },
+            {
+                "item_id": 1740,
+                "count": 2
+            },
+            {
+                "item_id": 1741,
+                "count": 3
+            },
+            {
+                "item_id": 1742,
+                "count": 3
+            },
+            {
+                "item_id": 1848,
+                "count": 2
+            },
+            {
+                "item_id": 1849,
+                "count": 3
+            },
+            {
+                "item_id": 1850,
+                "count": 3
+            },
+            {
+                "item_id": 2500,
+                "count": 4
+            },
+            {
+                "item_id": 2501,
+                "count": 4
+            },
+            {
+                "item_id": 2502,
+                "count": 1
+            },
+            {
+                "item_id": 2516,
+                "count": 4
+            },
+            {
+                "item_id": 2518,
+                "count": 4
+            },
+            {
+                "item_id": 2520,
+                "count": 4
+            },
+            {
+                "item_id": 307,
+                "count": 1
+            },
+            {
+                "item_id": 332,
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Apothecary",
+        "hp": 300,
+        "mp": 50,
+        "equipment": {
+            "axe": 1333,
+            "head": 1742,
+            "body": 1850
+        },
+        "items": [
+            {
+                "item_id": 1,
+                "count": 3
+            },
+            {
+                "item_id": 4,
+                "count": 3
+            },
+            {
+                "item_id": 12,
+                "count": 2
+            },
+            {
+                "item_id": 1033,
+                "count": 2
+            },
+            {
+                "item_id": 1129,
+                "count": 2
+            },
+            {
+                "item_id": 1229,
+                "count": 2
+            },
+            {
+                "item_id": 1333,
+                "count": 2
+            },
+            {
+                "item_id": 1430,
+                "count": 2
+            },
+            {
+                "item_id": 1532,
+                "count": 2
+            },
+            {
+                "item_id": 1618,
+                "count": 5
+            },
+            {
+                "item_id": 1740,
+                "count": 2
+            },
+            {
+                "item_id": 1741,
+                "count": 3
+            },
+            {
+                "item_id": 1742,
+                "count": 3
+            },
+            {
+                "item_id": 1848,
+                "count": 2
+            },
+            {
+                "item_id": 1849,
+                "count": 3
+            },
+            {
+                "item_id": 1850,
+                "count": 3
+            },
+            {
+                "item_id": 2500,
+                "count": 4
+            },
+            {
+                "item_id": 2501,
+                "count": 4
+            },
+            {
+                "item_id": 2502,
+                "count": 1
+            },
+            {
+                "item_id": 2516,
+                "count": 4
+            },
+            {
+                "item_id": 2518,
+                "count": 4
+            },
+            {
+                "item_id": 2520,
+                "count": 4
+            },
+            {
+                "item_id": 307,
+                "count": 1
+            },
+            {
+                "item_id": 332,
+                "count": 1
+            }
+        ]
+    }
+]

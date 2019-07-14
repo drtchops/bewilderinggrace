@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Olberic",
+        "money": 2500
+    },
+    {
+        "id": 2,
+        "name": "Tressa",
+        "money": 3000
+    },
+    {
+        "id": 3,
+        "name": "Cyrus",
+        "money": 2500
+    },
+    {
+        "id": 4,
+        "name": "Primrose",
+        "money": 2500
+    },
+    {
+        "id": 5,
+        "name": "H'aanit",
+        "money": 2500
+    },
+    {
+        "id": 6,
+        "name": "Therion",
+        "money": 2500
+    },
+    {
+        "id": 7,
+        "name": "Ophilia",
+        "money": 2500
+    },
+    {
+        "id": 8,
+        "name": "Alfyn",
+        "money": 2500
+    }
+]
